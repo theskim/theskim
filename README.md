@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=skim1601&color=blueviolet)
 - **[Website](https://seankim.netlify.app)** - My Resume is available
 - **[LinkedIn](https://www.linkedin.com/in/seankim7/)**
-- **kimsihy093@gmail.com**
+- **[Contact](kimsihy093@gmail.com)**
 <br/><br/>
 
 # Prior Experience in: #
